@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$Basetexture" "models/ULTRAKILL/characters/bosses/mp/MP_Body"
+
+	"$Translucent" "1"
+	"$Color2" "[1.5 1.5 3]"
+	"$NoDecal" "1"
+}

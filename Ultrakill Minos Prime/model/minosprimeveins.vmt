@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$Basetexture" "models/ULTRAKILL/characters/bosses/mp/MP_Veins"
+	"$AlphaTest" "1"
+	"$AlphaTestReference" "0.05"
+	"$NoDecal" "1"
+	"$NoCull" "1"
+}
