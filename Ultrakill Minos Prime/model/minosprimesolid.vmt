@@ -1,9 +1,0 @@
-"UnlitGeneric"
-{
-	"$Basetexture" "models/ULTRAKILL/characters/bosses/mp/MP_Body"
-
-	"$Color2" "[1.5 1.5 3]"
-	"$AlphaTest" "1"
-	"$AllowAlphaToCoverage" "1"
-	"$NoDecal" "1"
-}
