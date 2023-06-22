@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+		"$BaseTexture" "models/ULTRAKILL/vfx/shockwavetex 1"
+		"$Additive" "1"
+		"$Translucent" "1"
+		"$NoCull" "1"
+		"$Model" "1"
+}
