@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/resort/pootis_engage/heavy/hvyweapon_hands"
+	"$basemapalphaphongmask" "1"
+
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "1"	
+	"$lightwarptexture" "models/resort/shared/pyro_lightwarp"
+	"$phongfresnelranges"	"[.5 3 5]"
+	"$halflambert" "1"
+	
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "8"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" ".8"										// Boost for ambient cube component of rim lighting
+
+	"$cloakPassEnabled" "1"
+	"Proxies"
+	{
+		"invis"
+		{
+		}
+	}
+}
+
+
+
