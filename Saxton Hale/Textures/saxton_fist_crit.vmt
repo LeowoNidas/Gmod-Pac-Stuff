@@ -1,0 +1,15 @@
+patch
+{
+	include 	"materials/models/player/vsh_saxton_hale/saxton_fist.vmt"
+	
+	insert
+	{
+		"$EmissiveBlendEnabled" 		"1"
+		"$EmissiveBlendStrength" 		"1"
+		"$EmissiveBlendTexture" 		"vgui/white"
+		"$EmissiveBlendBaseTexture" 	"models/player/vsh_saxton_hale/saxton_fist_selfillum"
+		"$EmissiveBlendFlowTexture" 	"vgui/white"
+		"$EmissiveBlendTint" 		"[1 1 1]"
+		"$EmissiveBlendScrollVector"		"[0 0]"
+	}
+}
